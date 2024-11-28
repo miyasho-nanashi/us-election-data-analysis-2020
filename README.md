@@ -18,17 +18,17 @@ Data Visualization:
 Heatmaps, box plots, and confidence intervals to present findings.
 How to Reproduce
 Clone this repository:
-bash
-Code kopieren
+
+
 git clone https://github.com/your-username/us-election-data-analysis.git
 cd us-election-data-analysis
 Install required Python libraries:
-bash
-Code kopieren
+
+
 pip install -r requirements.txt
 Open and run the Jupyter Notebook:
-bash
-Code kopieren
+
+
 jupyter notebook us_election_analysis.ipynb
 Dataset
 The dataset used is sourced from Kaggle: Ultimate US Election Dataset.
